@@ -1,1 +1,3 @@
-# Mockup-to-website, took a design and turned it into a html file
+# Mockup-to-website
+
+Took a design and turned it into a html file
