@@ -1,0 +1,5 @@
+www.w3schools.com/cssref/pr_font_weight.asp
+http://getbootstrap.com/css/#type
+https://stackoverflow.com/questions/1065435/can-a-css-class-inherit-one-or-more-other-classes
+http://www.w3schools.com/css/css_font.asp
+http://www.w3schools.com/cssref/pr_dim_line-height.asp
